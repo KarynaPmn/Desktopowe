@@ -1,0 +1,10 @@
+C:\Users\karin\source\repos\Sigma\Sigma\bin\Debug\Sigma.exe.config
+C:\Users\karin\source\repos\Sigma\Sigma\bin\Debug\Sigma.exe
+C:\Users\karin\source\repos\Sigma\Sigma\bin\Debug\Sigma.pdb
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.Form1.resources
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.Properties.Resources.resources
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.csproj.GenerateResource.cache
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.exe
+C:\Users\karin\source\repos\Sigma\Sigma\obj\Debug\Sigma.pdb

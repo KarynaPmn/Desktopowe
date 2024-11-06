@@ -1,0 +1,10 @@
+C:\Users\karin\source\repos\Waluta\Waluta\bin\Debug\Waluta.exe.config
+C:\Users\karin\source\repos\Waluta\Waluta\bin\Debug\Waluta.exe
+C:\Users\karin\source\repos\Waluta\Waluta\bin\Debug\Waluta.pdb
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.csproj.AssemblyReference.cache
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.Form1.resources
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.Properties.Resources.resources
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.csproj.GenerateResource.cache
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.csproj.CoreCompileInputs.cache
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.exe
+C:\Users\karin\source\repos\Waluta\Waluta\obj\Debug\Waluta.pdb
