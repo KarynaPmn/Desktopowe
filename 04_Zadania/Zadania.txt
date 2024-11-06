@@ -1,0 +1,7 @@
+--- Zadanie 1 ---
+Nopisz program, który sprawdzi czy osoba urodzona w podanej dacie jest sigmą. 
+Jeżeli suma cyfr ma dwie takie same cyfry, to tak.
+
+--- Zadanie 2 ---
+Napisz program, w której użytkownik podaje kwotę i dostaje wyświetlone nominały.
+Nominały mogą być wyświetlone obrazkami.
