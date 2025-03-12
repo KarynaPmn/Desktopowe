@@ -39,9 +39,10 @@ namespace WinFormsApp2
                     wynik += cyfra;
                 else
                     wynik -= cyfra;
+                i++;
             }
 
-            if (wynik / 3 == 0 && wynik / 11 == 0)
+            if (wynik % 3 == 0 && wynik % 11 == 0)
                 return true;
             return false;
         }
